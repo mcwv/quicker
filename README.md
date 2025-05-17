@@ -1,15 +1,18 @@
+quickeryt1z
+
 browser extension that opens yt1z.net and populates it with the current youtube video url.
 
-**installation**
+installation
 
-download the latest quickeryt1z.xpi from the releases page.
+go to the releases page and download the latest quickeryt1z.xpi by clicking assets → quickeryt1z.xpi. be sure to save the file to your computer (don’t open it in firefox directly).
 
-in firefox, go to about:addons → ⚙️ → install add-on from file… and select the downloaded .xpi.
+in firefox, open about:addons, click the ⚙️ menu, choose install add-on from file…, then select the downloaded .xpi.
 
-**usage**
+usage
 
 navigate to any youtube video page.
 
 click the extension’s toolbar icon.
 
 you’ll be redirected to yt1z.net with the video url pre-filled.
+
